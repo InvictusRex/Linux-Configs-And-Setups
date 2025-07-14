@@ -1,0 +1,64 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "7007c550fee69a4e2296fd5ee38ee9266f51ac3ac729f7d63722072cd3a132b9",
+    "telemetry.devDeviceId": "7e6c437d-b992-40dc-a551-9d42464a8607",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1751632031315"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1751632031315": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/invictus/.config/Code - OSS/Backups/1751632031315",
+            "uiState": {
+                "mode": 1,
+                "x": 9,
+                "y": 33,
+                "width": 626,
+                "height": 678
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1a1b26",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#c0caf5",
+            "background": "#1a1b26",
+            "editorBackground": "#1a1b26",
+            "titleBarBackground": "#1d1f2d",
+            "titleBarBorder": "rgba(0, 0, 0, 0)",
+            "activityBarBackground": "#1a1b26",
+            "activityBarBorder": "rgba(255, 255, 255, 0)",
+            "sideBarBackground": "#1d1f2d",
+            "sideBarBorder": "rgba(255, 255, 255, 0)",
+            "statusBarBackground": "#1d1f2d",
+            "statusBarBorder": "#1a1b26",
+            "statusBarNoFolderBackground": "#594186"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    }
+}

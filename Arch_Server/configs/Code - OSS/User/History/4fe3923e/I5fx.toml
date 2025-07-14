@@ -1,0 +1,38 @@
+[font]
+size = 9.5
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+[colors.primary]
+background = "#27302f" # outer-space
+green   = "#3c6454" # mineral-green
+
+[colors.normal]
+black   = "#27302f" # outer-space
+red     = "#755344" # roman-coffee
+green   = "#3c6454" # mineral-green
+yellow  = "#d4aa8b" # tan
+blue    = "#a27f62" # barley-corn
+magenta = "#dbb493" # brandy
+cyan    = "#5c5242" # kabul
+white   = "#e1ba9d" # calico
+
+[colors.bright]
+black   = "#4f3928" # saddle
+red     = "#77552a" # dallas
+green   = "#3c6454" # mineral-green
+yellow  = "#d4aa8b" # tan
+blue    = "#a27f62" # barley-corn
+magenta = "#dbb493" # brandy
+cyan    = "#5c5242" # kabul
+white   = "#e1ba9d" # calico
